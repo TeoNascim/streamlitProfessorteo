@@ -31,6 +31,8 @@ with st.container():
 
     #Colocar a imagem do resultado dos saltos ornamentais
     st.image("saltosOrnamentais.png", caption="Resultado da prova de Saltos Ornamentais")
+    #Colocar imagem do resultado do nado sinronizado sem nado
+    st.image("nadoSincronizado.png", caption = "Resultado da prova de Nado Sincronizado sem Nado")
    
 # Criando uma siderbox de avisos 
 #st.sidebar.selectbox("Avisos", ("Seminário", "Prova Substitutiva"))
@@ -38,7 +40,7 @@ st.sidebar.text("Avisos!!! Seminário de Esportes Técnico Combinatório, será 
 
 
 
-    
+  
 
 
 
